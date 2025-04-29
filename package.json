@@ -1,0 +1,24 @@
+{
+  "name": "cypress-test-suite",
+  "version": "1.0.0",
+  "description": "Projeto de suítes de testes automatizados com Cypress - Portfólio QA - Fernanda Fittipaldi Santos (fefitti)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "keywords": [
+    "Cypress",
+    "Testes Automatizados",
+    "QA",
+    "Automação de Testes",
+    "API Testing",
+    "UI Testing"
+  ],
+  "author": "Fernanda Fittipaldi Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
+
